@@ -1,6 +1,8 @@
 #!/bin/bash
 # Copyright 2019 VMware, Inc.  All rights reserved.
-
+# 
+# Mustafa Bayramov - adjusted default expiration date for certs
+# both for cert itself and JSC
 LOG_DIR="/opt/vmware/var/log/vcd"
 LOG_FILE="$LOG_DIR/generate-certificates.log"
 
